@@ -1,0 +1,76 @@
+site_name: ThoriumDocs
+repo_url: https://github.com/UnhappyCodings/thoriumreactors
+repo_name: UnhappyCodings/thoriumreactors
+
+nav:
+  - 'Home': index.md
+  - 'Ores': ores.md
+  - 'First Steps': firststeps.md
+  - 'Recipes': recipes.md
+  - 'Machines': machines.md
+  - 'Fuel Production': fuel.md
+  - 'Reactor': reactor.md
+  - 'Turbine': turbine.md
+  - 'Integration': integration.md
+
+theme:
+  name: material
+  icon:
+    logo: material/library
+    repo: fontawesome/brands/github
+    admonition:
+      question: fontawesome/solid/border-all
+      success: fontawesome/solid/question
+  favicon: img/favicon.png
+  features:
+    - toc.follow
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.footer
+    - content.code.annotate
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: docs/extra.css
+      accent: docs/extra.css
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  social:
+    - icon: simple/discord
+      link: https://discord.intelligence-modding.de/
+    - icon: simple/youtube
+      link: https://www.youtube.com/channel/UC9k82vSEkI5WxuqhGnyRzfQ
+    - icon: simple/github
+      link: https://github.com/unhappycodings/
+    - icon: simple/curseforge
+      link: https://curseforge.com/members/unhappywithoutu/
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/unhappycodings/" target="_blank">UnhappyWithoutU</a>
+
+extra_css:
+  - extra.css
+
+markdown_extensions:
+  - mdx_math
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

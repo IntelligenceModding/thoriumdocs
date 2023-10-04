@@ -1,0 +1,37 @@
+@import url(https://unpkg.com/simple-icons-font@v5/font/simple-icons.min.css);
+
+.md-typeset h1,
+.md-content__button {
+  display: none;
+}
+
+:root {
+    --md-primary-fg-color: #379000;
+    --md-accent-fg-color: #47b900;
+}
+
+.md-button {
+    width: auto;
+}
+
+[data-md-color-scheme="slate"] h2::after {
+    background: var(--md-primary-fg-color--dark);
+}
+
+.si {
+    text-align: center;
+    vertical-align: middle;
+}
+
+b.si {
+    font-weight: normal;
+    font-size: 1.5rem;
+    padding-right: 0.3rem;
+    vertical-align: 1rem;
+}
+
+.md-typeset h5 {
+    color: var(--md-default-fg-color);
+    font-size: large;
+    text-transform: none;
+}
