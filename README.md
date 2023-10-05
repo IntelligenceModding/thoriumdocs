@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/discord/734726882058174486?style=for-the-badge&label=Discord&color=4B58CC&labelColor=5865F2)
 ![Downloads](https://cf.way2muchnoise.eu/full_thorium-reactors_downloads.svg?badge_style=for_the_badge)
 
+[![Ko-Fi](https://img.shields.io/badge/Buy_Me_A_Coffee-0577ab?style=for-the-badge&logoColor=white&logo=KoFi)](https://ko-fi.com/unhappywithoutu)
+
 [![Thoriumreactors Mod](./thumbnail.png)](https://github.com/UnhappyCodings/thoriumreactors)
 
 <br>
