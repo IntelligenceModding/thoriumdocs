@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
 ---
 hide:
   - navigation
@@ -29,8 +31,8 @@ setting up your own reactor, building a turbine and producing your own green ene
 <b class="si si-discord"></b> If you need help, join the [Discord](https://discord.intelligence-modding.de/){:target=”_blank”}  
 <b class="si si-curseforge"></b> See the mod page on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thorium-reactors){:target=”_blank”}  
 <b class="si si-github"></b> Find the mod source code on [Github](https://github.com/UnhappyCodings/thoriumreactors){:target=”_blank”}  
-<b class="si si-internetexplorer"></b> Interested in more? Visit our [Website!](https://intelligence-modding.de/){:target=”_blank”}  
-
+<b class="si si-firefoxbrowser"></b> Interested in more? Visit our [Website!](https://intelligence-modding.de/){:target=”_blank”}   
+    
 </center>
 
 <hr>
