@@ -9,12 +9,12 @@ hide:
 
 ### Introduction
 
-To run a Thorium Reactor you need two types of Fuel, <br>
-first the thorium carrying fluid [Molten Salt](#molten-salt-production). <br>
+To run a thorium reactor, you need two types of fuel:
+first the thorium-carrying fluid, [Molten Salt](#molten-salt-production).
 
-After that you need [Enriched Uranium Pellets](#enriched-uranium) to start the actual physical reaction inside the reactor.
+After that, you need [Enriched Uranium Pellets](#enriched-uranium) to start the actual physical reaction inside the reactor.
 
-If you dont have a energy generation yet, craft yourself a [Fuel Generator](http://127.0.0.1:8000/machines/#fuel-generator)!
+If you don't have an energy generator yet, craft yourself a [Fuel Generator](http://127.0.0.1:8000/machines/#fuel-generator)!
 
 <br>
 [Next > Reactor](reactor.md){ .md-button }

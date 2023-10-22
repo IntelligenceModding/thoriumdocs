@@ -9,10 +9,10 @@ hide:
 
 ### Introduction
 
-For all future recipes we need a foundation to craft all machines, tools, blocks etc. <br>
+For all future recipes, we need a foundation to craft all machines, tools, blocks, etc.
 But, we aren't using the normal crafting table, but a thorium crafting table!
 
-Mostly all recipes are being crafted in its 5x5 crafting area!
+Mostly all recipes are being crafted in the 5x5 crafting area!
 
 **The [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei){:target=”_blank”}   Mod is highly recommended for crafting!** <br>
 Otherwise, recipes can be seen in [Recipes](recipes.md)
@@ -24,7 +24,7 @@ Otherwise, recipes can be seen in [Recipes](recipes.md)
 
 ### Thorium Crafting Table
 
-Use the following recipe to craft a Thorium Crafting Table!
+Use the following recipe to craft a thorium crafting table!
 
 <br>
 Recipe:

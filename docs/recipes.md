@@ -9,10 +9,10 @@ hide:
 
 ### Introduction
 
-Need help in crafting all machines and ingredients? <br>
-No problem! Head up to [Recipes](#all-recipes) and start crafting on all needed blocks for your own reactor!
+Need help crafting all the machines and ingredients?
+No problem! Head up to [Recipes](#all-recipes) and start crafting all the needed blocks for your own reactor!
 
-**You can also use the [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei){:target=”_blank”}   Mod to see all recipes and progresses ingame!**
+You can also use the [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei){:target=”_blank”}   Mod to see all recipes and progress in-game!
 
 <br>
 [Next > Machines](machines.md){ .md-button }

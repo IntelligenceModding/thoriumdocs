@@ -15,7 +15,7 @@ Now we will craft our first machines! <br>
 You need one of each machine to successfully build a reactor and turbine!
 
 **The [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei){:target=”_blank”}   Mod is highly recommended for crafting!** <br>
-**Please manage to install JEI, since there are way to many Recipes to show all!**
+**Please manage to install JEI since there are way too many recipes to show them all!!**
 
 <br>
 [Next > Fuel Production](fuel.md){ .md-button }
@@ -24,16 +24,15 @@ You need one of each machine to successfully build a reactor and turbine!
 
 ### Controlling your Machine
 
-There are some possibilities available to power control your machines! <br>
-Firstly your can completely turn it off, by simply clicking the **"Power"** button on the left side of the machines inventory! <br>
+There are some possibilities available to power-control your machines!
+Firstly, you can completely turn it off by simply clicking the **"Power"** button on the left side of the machine's inventory!
 
-Controlling it is also possible though redstone! <br>
+Controlling it is also possible through Redstone!
 Simply change the **"Redstone Mode"** beneath the **"Power"** button.
 
-When using **"Ignored"** the machine is always powered, atleast until its **"Power"** is true. <br>
-**"Normal"** means, it will run when an active redstone signal is applied into it, or on a surrounding block. <br>
-Last but not least there's **"Inverted"**, which basically is like the **"Normal"** mode, but inverted.
-
+When using **"Ignored"** the machine is always powered, at least until **"Power"** is true.
+**"Normal"** means it will run when an active redstone signal is applied to it or on a surrounding block.
+Last but not least, there's **"Inverted"**, which is basically like the **"Normal"** mode but inverted.
 <hr>
 
 ### Machine Casing
@@ -45,8 +44,8 @@ Crafting ingredient only!
 
 ### Fuel Generator
 
-If you dont already have an energy generation from other mods, you will need a Fuel Generator! <br>
-The fuel Generator burns **fossile fuels** and generates at a rate of **144FE/t**
+If you don't already have an energy generation from other mods, you will need a Fuel Generator! <br>
+The fuel Generator burns **fossile fuels** and generates at a rate of **144 FE/t**
 
 ??? success "Functionality"    
     ![Usage](./img/usage-fuel_generator.png)
@@ -60,7 +59,7 @@ The fuel Generator burns **fossile fuels** and generates at a rate of **144FE/t*
 
 Machine needed for fuel production. <br>
 Gaining salt is this machines most use! <br>
-Needs 142FE/t
+Needs 142 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-fluid_evaporator.png)
@@ -75,7 +74,7 @@ Needs 142FE/t
 
 Machine needed for fuel production. <br>
 Uses eletrolysis on fluids to extract minerals. <br>
-Needs 86FE/t
+Needs 86 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-electrolytic_salt_separator.png)
@@ -90,7 +89,7 @@ Needs 86FE/t
 
 Machine needed for fuel production. <br>
 Melts different salts into a homogeneous fluid! <br>
-Needs 233FE/t
+Needs 233 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-salt_melter.png)
@@ -104,7 +103,7 @@ Needs 233FE/t
 ### Concentrator
 
 Uses materials to form their high concentrated variants! <br>
-Needs 64FE/t
+Needs 64 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-concentrator.png)
@@ -117,7 +116,7 @@ Needs 64FE/t
 ### Decomposer
 
 Decomposes items into a fluid. <br>
-Needs 33FE/t
+Needs 33 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-decomposer.png)
@@ -130,7 +129,7 @@ Needs 33FE/t
 ### Uranium Oxidizer
 
 Injecting minerals into fluids using oxidization. <br>
-Needs 54FE/t
+Needs 54 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-uranium_oxidizer.png)
@@ -143,7 +142,7 @@ Needs 54FE/t
 ### Fluid Centrifuge
 
 Fluid manpulation using centrifuging <br>
-Needs 46FE/t
+Needs 46 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-fluid_centrifuge.png)
@@ -156,7 +155,7 @@ Needs 46FE/t
 ### Crystallizer
 
 Turns fluids into their solid form. <br>
-Needs 54FE/t
+Needs 54 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-crystallizer.png)
@@ -168,7 +167,7 @@ Needs 54FE/t
 ### Blast Furnace
 
 Having an Blast Furnace is essential, its mostly used to produce Blasted Stone, Iron- and Steel Ingots <br>
-Needs 189FE/t
+Needs 189 FE/t
 
 ??? success "Functionality"    
     ![Usage](./img/usage-blast_furnace.png)

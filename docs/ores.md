@@ -9,14 +9,12 @@ hide:
 
 ### Introduction
 
-The most essential stuff in minecraft is ores and resources! <br>
-In the list below you can see all ores listed with its spawning rates and areas. <br>
+The most essential things in Minecraft are ores and resources!
+In the list below, you can see all ores listed with their spawning rates and areas.
 
-Keep in mind that some resources as cobalt can't be mined,
-as they are subproductions from for example ore processing!
-Before you even start to think about machines or even a reactor, swing your pickaxe and excavate some mines.
+Keep in mind that some resources, such as cobalt, can't be mined as they are subproducts of, for example, ore processing! Before you even start to think about machines or even a reactor, swing your pickaxe and excavate some mines.
 
-**To see these infos in-game use the [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer){:target=”_blank”}   Mod!**
+**To see these details in-game use the [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer){:target=”_blank”}   Mod!**
 
 <br>
 [Next > First Steps](firststeps.md){ .md-button }

@@ -116,7 +116,7 @@ Head up to [Recipes](#recipes) and start crafting on all needed blocks for your 
 <div markdown="1" style="text-align:left;">
 After you have **finally** built up your reactor, click on its [Reactor Controller](recipes.md/#controller) to activate the multiblock structure!
 The activation is indicated by green particles around the multiblock and the controller should have turned on!
-Otherwise check your structure again if its fits the conditions in [Multiblock Structure](#multiblock-structure).
+Otherwise, check your structure again to see if it fits the conditions in [Multiblock Structure](#multiblock-structure).
 </div>
 <br>
 
