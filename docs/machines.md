@@ -177,3 +177,16 @@ Needs 189 FE/t
     Here it's 1050°C!
 
 <hr>
+
+### Fluid Enricher
+
+You need a fluid enricher to refine your depleted molten salt back into for the reactor usable molten salt! <br>
+Needs 54 FE/t
+
+??? success "Functionality"    
+    ![Usage](./img/usage-fluid_enricher.png)
+    <br>
+    Uses an ingredient to enrich a target fluid into another one! <br>
+    Mainly used for Depleted Molten Salt enrichment!
+
+<hr>

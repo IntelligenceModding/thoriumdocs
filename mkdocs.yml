@@ -10,6 +10,7 @@ nav:
   - 'Machines': machines.md
   - 'Fuel Production': fuel.md
   - 'Reactor': reactor.md
+  - 'Thermal': thermal.md
   - 'Turbine': turbine.md
   - 'Integration': integration.md
 

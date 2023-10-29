@@ -13,7 +13,7 @@ Finally have all fueling ingredients to start your reactor? Great! <br>
 Head up to [Recipes](#recipes) and start crafting on all needed blocks for your own reactor!
 
 <br>
-[Next > Turbine](turbine.md){ .md-button }
+[Next > Thermal](thermal.md){ .md-button }
 <br><br>
 <hr>
 

@@ -560,6 +560,28 @@ You can also use the [Just Enough Items](https://www.curseforge.com/minecraft/mc
         </tr>
     </table>
 
+#### Fluid Enricher
+??? question "Recipe"
+    ![Recipe](./img/recipe-fluid_enricher.png)
+    <br>
+    Resources needed:
+    <table>
+        <tr>
+            <td> 2x Blasted Iron Ingot </td>
+            <td> 4x Blasted Iron Nugget </td>
+            <td> 2x Steel Ingot </td>
+            <td> 4x Steel Nugget </td>
+            <td> 2x Redstone Dust </td>
+        </tr>
+        <tr>
+            <td> 2x Tank Module </td>
+            <td> 2x Niob Nugget </td>
+            <td> 1x Cobalt Nugget </td>
+            <td> 1x Molybdenum Nugget </td>
+            <td> 1x Machine Casing </td>
+        </tr>
+    </table>
+
 <hr>
 
 ### Reactor Recipes
