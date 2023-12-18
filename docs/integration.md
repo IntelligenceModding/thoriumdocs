@@ -573,13 +573,34 @@ getFuelRodStatus(Integer index) -> Float
 index: 0 - 63
 ```
 
+<hr>
+
+### ***getFuelRodStatusMap()***
+
+<h5> Description </h5>
+
+Returns the fuel level of the given fuel rod in percent in a lua table!
+
+<h5> Method </h5>
+
+```lua 
+getFuelRodStatusMap() -> Table: Int, Int
+```
+
 <h5> Example </h5>
 
 ```lua linenums="1" title="example.lua"
 local reactor = peripheral.find("thorium_reactor")
 
-print("Fuel #31: " .. toString(reactor.getFuelRodStatus(31)) .. "%")
+for k, v in pairs(reactor.getFuelRodStatusMap()) do
+    print("Fuel #: " .. k .. " has " .. v .. "% fuel")
+end
 ```
+
+<h5> Added In </h5>
+
+ThoriumReactors version 0.2b
+
 
 <hr>
 
@@ -607,6 +628,35 @@ print("Depletion #55: " .. toString(reactor.getDepletedFuelRodStatus(55)) .. "%"
 
 <hr>
 
+### ***getDepletedFuelRodStatusMap()***
+
+<h5> Description </h5>
+
+Returns the depleted fuel level of the given fuel rod in percent in a lua table!
+
+<h5> Method </h5>
+
+```lua 
+getDepletedFuelRodStatusMap() -> Table: Int, Int
+```
+
+<h5> Example </h5>
+
+```lua linenums="1" title="example.lua"
+local reactor = peripheral.find("thorium_reactor")
+
+for k, v in pairs(reactor.getDepletedFuelRodStatusMap()) do
+    print("Fuel #: " .. k .. " has " .. v .. "% depleted fuel")
+end
+```
+
+<h5> Added In </h5>
+
+ThoriumReactors version 0.2b
+
+
+<hr>
+
 ### ***getCurrentControlRodStatus()***
 
 <h5> Description </h5>
@@ -631,6 +681,35 @@ print("Control #55: " .. toString(reactor.getCurrentControlRodStatus(70)) .. "%"
 
 <hr>
 
+### ***getCurrentControlRodStatusMap()***
+
+<h5> Description </h5>
+
+Returns the depleted fuel level of the given fuel rod in percent in a lua table!
+
+<h5> Method </h5>
+
+```lua 
+getCurrentControlRodStatusMap() -> Table: Int, Int
+```
+
+<h5> Example </h5>
+
+```lua linenums="1" title="example.lua"
+local reactor = peripheral.find("thorium_reactor")
+
+for k, v in pairs(reactor.getCurrentControlRodStatusMap()) do
+    print("Rod #: " .. k .. " is " .. v .. "% inserted")
+end
+```
+
+<h5> Added In </h5>
+
+ThoriumReactors version 0.2b
+
+
+<hr>
+
 ### ***getTargetControlRodStatus()***
 
 <h5> Description </h5>
@@ -652,6 +731,34 @@ local reactor = peripheral.find("thorium_reactor")
 
 print("Control #70: " .. toString(reactor.getTargetControlRodStatus(70)) .. "%")
 ```
+
+<hr>
+
+### ***getTargetControlRodStatusMap()***
+
+<h5> Description </h5>
+
+Returns the depleted fuel level of the given fuel rod in percent in a lua table! <br>
+
+<h5> Method </h5>
+
+```lua 
+getTargetControlRodStatusMap() -> Table: Int, Int
+```
+
+<h5> Example </h5>
+
+```lua linenums="1" title="example.lua"
+local reactor = peripheral.find("thorium_reactor")
+
+for k, v in pairs(reactor.getTargetControlRodStatusMap()) do
+    print("Rod #: " .. k .. " will be " .. v .. "% inserted")
+end
+```
+
+<h5> Added In </h5>
+
+ThoriumReactors version 0.2b
 
 <hr>
 
