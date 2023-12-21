@@ -570,7 +570,7 @@ Returns the fuel level of the given fuel rod in percent!
 ```lua 
 getFuelRodStatus(Integer index) -> Float
 
-index: 0 - 63
+index: 0 - 80
 ```
 
 <hr>
@@ -615,7 +615,7 @@ Returns the depleted fuel level of the given fuel rod in percent!
 ```lua 
 getDepletedFuelRodStatus(Integer index) -> Float
 
-index: 0 - 63
+index: 0 - 80
 ```
 
 <h5> Example </h5>
@@ -668,7 +668,7 @@ Returns the current control rod insert value in percent!
 ```lua 
 getCurrentControlRodStatus(Integer index) -> Float
 
-index: 0 - 80
+index: 0 - 63
 ```
 
 <h5> Example </h5>
@@ -721,7 +721,7 @@ Returns the target control rod insert value in percent!
 ```lua 
 getTargetControlRodStatus(Integer index) -> Float
 
-index: 0 - 80
+index: 0 - 63
 ```
 
 <h5> Example </h5>
@@ -773,7 +773,7 @@ Sets the target control rod insert value!
 ```lua 
 setTargetControlRodStatus(Integer index, Integer value)
 
-index: 0 - 80
+index: 0 - 63
 value: 0 - 100
 ```
 
