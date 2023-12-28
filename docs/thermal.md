@@ -26,7 +26,7 @@ Head up to [Recipes](#recipes) and start crafting on all needed blocks and items
 
     <div markdown="1" style="text-align:left;width: fit-content;">
     **25x** Thermal Conductor [Recipe](recipes.md/#conductor) <br>
-    **15x** Thermal Heat Sink [Recipe](recipes.md/#sink) <br>
+    **15x** Thermal Sink [Recipe](recipes.md/#sink) <br>
     **4x** Thermal Valve [Recipe](recipes.md/#valve_1) <br>
     **1x** Thermal Controller [Recipe](recipes.md/#controller_1) <br>
     </div>
@@ -59,7 +59,7 @@ Head up to [Recipes](#recipes) and start crafting on all needed blocks and items
     <div id="thermal_desc_3" hidden> 
 
     <br><em>**Description**</em> <br><br>
-    Lastly fill the last layer with [Thermal Heat Sinks](recipes.md/#sink)! <br>
+    Lastly fill the last layer with [Thermal Sinks](recipes.md/#sink)! <br>
     
     <p style="color:#d60000"> Remember that the multiblock does not give you instant feedback when its build correctly!</p>
     
