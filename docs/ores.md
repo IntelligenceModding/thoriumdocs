@@ -21,7 +21,7 @@ Keep in mind that some resources, such as cobalt, can't be mined as they are sub
 <br><br>
 <hr>
 
-### Stone
+### Deepslate
 
 <table>
     <tr>
@@ -114,7 +114,7 @@ Keep in mind that some resources, such as cobalt, can't be mined as they are sub
     </tr>
 </table>
 
-### Deepslate
+### Stone
 
 <table>
     <tr>
