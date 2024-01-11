@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-
 ---
 hide:
   - navigation
@@ -7,11 +5,13 @@ hide:
   - pageTitle
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
 <center>
 !!! danger "Until now, there are no cables or pipes implemented, make sure to use some external mods like Mekanism."
 
 <hr>
-[![Header](https://github.com/UnhappyCodings/thoriumreactors/raw/master/thumbnail.png)](https://www.curseforge.com/minecraft/mc-mods/thorium-reactors)
+[![Header](https://github.com/UnhappyCodings/thoriumreactors/raw/1.20.1/thumbnail.png)](https://www.curseforge.com/minecraft/mc-mods/thorium-reactors)
 
 ### Introduction
 

@@ -5,7 +5,7 @@ hide:
 
 <center>
 <hr>
-[![Header](https://github.com/UnhappyCodings/thoriumreactors/raw/master/thumbnail.png)](https://www.curseforge.com/minecraft/mc-mods/thorium-reactors)
+[![Header](https://github.com/UnhappyCodings/thoriumreactors/raw/1.20.1/thumbnail.png)](https://www.curseforge.com/minecraft/mc-mods/thorium-reactors)
 
 ### Introduction
 
